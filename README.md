@@ -1,5 +1,6 @@
 # React Movies Backend
 NodeJS and Express REST-API server for Movies React App
+
 Features:
  - MongoDB
  - Authentication (JWT)
